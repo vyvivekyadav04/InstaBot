@@ -2,7 +2,9 @@ import requests, urllib  #Importing "requests" Libabry and "urllib"
 from textblob import TextBlob  #Simple Text Processing library 
 from textblob.sentiments import NaiveBayesAnalyzer  #For Negetive Comments
 
-APP_ACCESS_TOKEN = '5629236876.1cc9688.86db895c038043b5960dc2949785299a'
+#APP_ACCESS_TOKEN = '5629236876.1cc9688.86db895c038043b5960dc2949785299a'    #Sir 
+APP_ACCESS_TOKEN = '5687315560.17d1885.ace58049d56d4a5e91ef1203e48d17b1'    #Me
+
 #Token Owner : vyvivekyadav04
 #Sandbox Users : vyvivekyadav22 
 
